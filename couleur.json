@@ -1,0 +1,25 @@
+{
+    "couleurs": {
+        "comment": "Liste des couleurs :",
+        "list": [
+            "bleu",
+            "rouge",
+            "vert",
+            "jaune",
+            "violet",
+            "magenta",
+            "pourpre",
+            "rose"
+        ]
+    },
+    "objets": {
+        "comment": "Liste des objets :",
+        "list": [
+            "fromage",
+            "bille",
+            "baton",
+            "sac",
+            "voiture"
+        ]
+    }
+}
